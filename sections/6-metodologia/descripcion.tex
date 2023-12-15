@@ -1,0 +1,39 @@
+
+% Sensores de Humedad del Suelo, Temperatura y Humedad Ambiental: Estos sensores son fundamentales para obtener datos precisos sobre las condiciones ambientales. Su uso permitirá recopilar información esencial para tomar decisiones informadas sobre el riego de las plantas, ya que la humedad del suelo, la temperatura y la humedad ambiental son factores críticos para el crecimiento de las plantas.
+
+% \bigbreak
+% Microcontrolador con Módulo de Lógica Difusa: El microcontrolador será el centro de procesamiento de los datos recopilados por los sensores. La lógica difusa entra en juego aquí para tomar decisiones en tiempo real sobre el riego. Su utilización se justifica debido a su capacidad para manejar datos imprecisos y tomar decisiones basadas en reglas lógicas derivadas de estos datos.
+
+% \bigbreak
+% Etapas de la Lógica Difusa (Interfaz de Fuzzificación, Mecanismo de Inferencia y Defuzzificación): Estas etapas son esenciales para el funcionamiento de la lógica difusa. La interfaz de fuzzificación prepara los datos para el proceso de toma de decisiones, el mecanismo de inferencia aplica las reglas lógicas para decidir sobre el riego, y la interfaz de defuzzificación convierte la salida de la lógica difusa en acciones específicas de riego (abrir o cerrar el agua y su duración).
+
+% \bigbreak
+% Base de Datos para Almacenamiento: La base de datos sirve como un repositorio de las decisiones de riego tomadas por la lógica difusa. Su uso es fundamental para registrar y analizar el histórico de decisiones, lo que permite evaluar y ajustar el sistema en función de su rendimiento pasado.
+
+% \bigbreak
+% Aplicación Móvil con API para Visualización de Datos: La aplicación móvil proporcionará una interfaz amigable para visualizar y comprender los registros de la base de datos. La API permitirá la conexión entre la aplicación y la base de datos para acceder y mostrar estos registros de manera intuitiva.
+
+% \bigbreak
+% Arquitectura MVC: Se elige esta arquitectura para organizar la aplicación en tres componentes principales: Modelo, Vista y Controlador. Esto permite una estructura más ordenada y mantenible, separando la lógica de la aplicación, la interfaz de usuario y la gestión de acciones.
+
+% \bigbreak
+% Metodología XP (Extreme Programming): Esta metodología ágil se selecciona debido a su capacidad para adaptarse rápidamente a los cambios y ofrecer entregas continuas de alta calidad. Se busca aprovechar su enfoque iterativo para recibir retroalimentación constante y realizar ajustes durante el desarrollo del proyecto.
+
+En esta investigación, se utilizarán sensores de humedad del suelo, temperatura
+y humedad ambiental para recolectar datos esenciales sobre las condiciones del
+entorno. Estos datos serán transmitidos a un microcontrolador equipado con un
+módulo de lógica difusa. La lógica difusa desempeñará un papel importante en la
+toma de decisiones basadas en estos datos.
+
+\bigbreak
+La lógica difusa se estructura en diversas fases: una interfaz de fuzzificación, que recibe la información proveniente de los sensores como entrada inicial; un mecanismo de inferencia, responsable de aplicar reglas lógicas; y una interfaz de defuzzificación, que determina si se debe activar o desactivar el riego, así como la duración de esta acción.
+
+\bigbreak
+Si el sistema activa el riego, se utilizará una base de datos para almacenar estos datos, permitiendo un registro histórico de las decisiones tomadas. Además, se desarrollará una aplicación móvil que aprovechará una API para mostrar estos registros de la base de datos, ofreciendo una interfaz fácil de usar para revisar los datos y las decisiones del sistema.
+
+\bigbreak
+Esta estructura de la lógica difusa y el manejo de datos se basará en la arquitectura MVC, que organiza la lógica de la aplicación en tres componentes clave: el Modelo, que maneja la lógica de negocio y los datos; la Vista, que se encarga de la interfaz de usuario; y el Controlador, que gestiona las interacciones entre el Modelo y la Vista. Esta elección arquitectónica permitirá una mejor organización y mantenimiento del sistema.
+
+\bigbreak
+Finalmente, se ha optado por la metodología XP (Extreme Programming) debido a su enfoque ágil, centrado en la entrega rápida de software de alta calidad y la adaptabilidad a medida que avanza el proyecto.
+

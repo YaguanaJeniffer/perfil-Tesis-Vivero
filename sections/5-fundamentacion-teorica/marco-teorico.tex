@@ -1,0 +1,83 @@
+\subsection{Marco teórico}
+\subsubsection*{Vivero}
+Un vivero es un espacio destinado a la producción y cuidado de plantas, especialmente para su venta. En estos lugares, se maneja una amplia gama de plantas, incluyendo ornamentales, forestales y frutales. Al revisar investigaciones previas, se nota que se mencionan sistemas de riego en entornos como invernaderos, granjas y otros lugares, pero no específicamente en viveros. Sin embargo, el riego es esencial en los viveros para garantizar el crecimiento saludable de las plantas. Dado que los antecedentes no detallan la implementación de sistemas de riego en viveros, es crucial resaltar esta omisión.
+
+\subsubsection*{Lógica difusa}
+La lógica difusa es una técnica que se utiliza para la toma de decisiones con datos incompletos. Esta técnica se basa en el uso de grados de verdad, en lugar de la dicotomía verdadero o falso de la lógica clásica. En \cite{krishnan_fuzzy_2020} se utilizó para calcular parámetros de entrada, como la humedad del suelo, la temperatura y los niveles de humedad, generando resultados que representaban el estado del motor.
+
+\subsubsection*{Sistemas de control}
+Son conjuntos de dispositivos mecánicos y/o electrónicos que regulan, administran y controlan otros dispositivos o sistemas mediante lazos de control. Estos sistemas se utilizan para proporcionar la respuesta deseada controlando la salida de un proceso. La lógica difusa tipo Mamdani se utilizo en \cite{mohammed_intelligent_nodate} \cite{widyawati_fuzzy_2022} para modelar sistemas difusos y tomar decisiones basadas en reglas lingüísticas, lo que la hace adecuada para sistemas en los que las entradas y salidas no son precisas. Por otro lado, el algoritmo PID (Proporcional Integral Derivativo) utilizado en \cite{haiyan_intelligent_2022} es un método de control de retroalimentación clásico que se utiliza para corregir errores o fluctuaciones en un sistema. Ambos tipos de algoritmos se utilizan en sistemas de control para mejorar el rendimiento y la precisión en el control de sistemas dinámicos.
+
+\subsubsection*{Sensores de Humedad y Temperatura}
+Los sensores de humedad y temperatura, como el DTH11, el DHT22 y el DS18B20, desempeñan el papel crucial de medir simultáneamente la humedad relativa y la temperatura en un entorno. Cada uno de estos sensores tiene sus propias características distintivas. Mientras que el DTH11 destaca por su costo económico y precisión aceptable, el DHT22 ofrece una mayor exactitud en las mediciones y un rango de operación más amplio. Por otro lado, el DS18B20 se destaca por su interfaz digital y su precisión en mediciones de temperatura. En \cite{castillo_herrero_desarrollo_2020}, los sensores de humedad fueron elementos necesarios para obtener el acceso a los datos mediante la tecnología NFC.
+
+\subsubsection*{Sensores de Humedad del suelo}
+Los sensores de humedad del suelo son dispositivos diseñados para medir el contenido de humedad en la tierra. Entre los tipos de sensores comunes se encuentran el Módulo HL 69, el SM3002B y el sensor YL-69. Cada uno posee particularidades distintivas que los diferencian en su aplicación. El Módulo HL 69 destaca por su versatilidad y capacidad para medir la humedad en diferentes tipos de suelo, ofreciendo una amplia gama de aplicaciones. Por otro lado, el SM3002B se caracteriza por su precisión en la medición y su resistencia a condiciones ambientales desfavorables. Por último, el sensor YL-69 es conocido por su sencillez y costo accesible, siendo una opción práctica para aplicaciones básicas de monitoreo de humedad en el suelo.
+
+\subsubsection*{Sensores de Lluvia}
+Un sensor de lluvia es un dispositivo diseñado para detectar la presencia o la intensidad de la lluvia. Entre los tipos comunes se encuentran el sensor de lluvia y el sensor de gota de lluvia YL-83. Estos sensores presentan características particulares que los diferencian. El sensor de lluvia referenciado en \cite{krishnan_fuzzy_2020}, se enfoca en utilizar métodos basados en lógica difusa para la detección y el análisis de la lluvia. Por otro lado, el sensor de gota de lluvia YL-83, mencionado en \cite{alcivar_dominguez_sistema_2018}, se destaca por su capacidad para detectar gotas individuales de lluvia y su sensibilidad para medir la intensidad de la misma.
+
+\subsubsection*{Microcontrolador}
+Un microcontrolador es un chip que integra procesador, memoria y periféricos, utilizado para controlar operaciones en tiempo real. Entre ellos, el ESP8266 se destaca por su conectividad Wi-Fi, el STC15F2K60S2 ofrece control preciso, y el ESP32, más avanzado, no solo tiene potencia de procesamiento sino también soporte para Wi-Fi y Bluetooth. Además, en \cite{ramos_galindo_diseno_2023} el ESP32 se ha utilizado para recopilar datos de sensores, procesar la información y transferirla en tiempo real a una base de datos a través de Wi-Fi, aprovechando sus capacidades avanzadas para tareas simultáneas y conectividad inalámbrica.
+
+\subsubsection*{Controlador}
+Un controlador es un dispositivo electrónico diseñado para regular y dirigir el funcionamiento de otros componentes en un sistema. En el caso del ICL2930 utilizado en \cite{hasan_implementation_2018}, se destaca por su capacidad para manejar motores, ofreciendo una interfaz eficiente y precisa para controlar la velocidad y dirección de motores DC.
+
+\subsubsection*{Arduino}
+Arduino es una plataforma de hardware de código abierto para proyectos electrónicos. Entre sus modelos, el Arduino Mega destaca por su mayor cantidad de pines, ideal para proyectos complejos. El Arduino-UNO R3 es versátil y ampliamente utilizado, perfecto para aplicaciones estándar, mientras que el Arduino Nano ofrece funcionalidad en un formato compacto, ideal para proyectos con limitaciones de espacio.
+
+\subsubsection*{Raspberry Pi}
+El Raspberry Pi es una serie de miniordenadores de placa única desarrollados para promover la enseñanza de informática y la creación de proyectos de bajo costo. Entre los modelos de Raspberry Pi, el Raspberry Pi 3 es destacado por su rendimiento superior con un procesador más rápido y mejoras en la conectividad. Este modelo ha sido utilizado en diversos contextos, como se cita en \cite{benyezza_zoning_2021} y \cite{orozco_jaramillo_diseno_2019}.
+
+\subsubsection*{Metodología Cascada}
+La metodología en cascada es un enfoque secuencial y lineal para el desarrollo de software, donde cada fase del proyecto se completa antes de pasar a la siguiente. En \cite{alcivar_dominguez_sistema_2018}, se utilizó para asegurar un proceso de desarrollo sistemático y ordenado. Esta metodología permite una planificación detallada, la estimación precisa de costos y plazos, y establece una secuencia lógica en las etapas de creación del sistema de riego automatizado. Cada etapa se ejecuta de manera secuencial, comenzando desde la definición de requisitos, pasando por el diseño, la implementación, pruebas y finalmente la entrega. Este enfoque permite una estructura clara y una gestión eficiente de cada fase del proyecto.
+
+\subsubsection*{Metodología XP}
+La metodología Extreme Programming (XP) es un enfoque ágil de desarrollo de software que se centra en la mejora continua, la adaptabilidad y la entrega rápida de software de alta calidad. XP se basa en una serie de prácticas y valores diseñados para maximizar la satisfacción del cliente y la eficiencia del equipo de desarrollo. Es relevante mencionar que, al revisar los antecedentes existentes, no se especifica la metodología utilizada en los proyectos previos. Dada la falta de información sobre las metodologías previas, se ha decidido adoptar la metodología XP para el desarrollo del presente proyecto.
+
+\subsubsection*{Base de Datos}
+Una base de datos es un sistema organizado para almacenar y gestionar datos de manera estructurada. Entre los tipos de bases de datos se encuentra la base de datos SQL. Entre sus tipos está la base de datos SQL, que utiliza el lenguaje SQL para administrar datos, como se evidencia en \cite{al-ali_iot-solar_2019}. MySQL es un sistema de gestión de bases de datos relacional ampliamente empleado en diversos sistemas, según lo señalado en \cite{alcivar_dominguez_sistema_2018} y \cite{castillo_herrero_desarrollo_2020}. Por último, Firebase que es una plataforma de Google, que proporciona servicios de base de datos en tiempo real, siendo utilizado para mantener una base de datos en tiempo real, como se menciona en \cite{ramos_galindo_diseno_2023}, permitiendo la sincronización entre dispositivos y aplicaciones.
+
+\subsubsection*{Tecnología NFC}
+La tecnología NFC, conocida como Near Field Communication, se emplea por su habilidad para establecer conexiones entre dispositivos electrónicos de manera sencilla e intuitiva. En \cite{haiyan_intelligent_2022} cada sensor está asociado con una etiqueta NFC específica. Cuando un usuario requiere acceder al historial de temperaturas de un sensor en particular, simplemente necesita escanear la etiqueta NFC correspondiente usando esta tecnología. Esta forma de interacción simplifica el proceso de obtención de datos sensoriales, ya que la lectura de la etiqueta NFC relacionada con un sensor específico desencadena la recuperación de información directamente en la aplicación.
+
+\subsubsection*{Arquitectura}
+La arquitectura, en el contexto del desarrollo de software, se refiere a la estructura general y el diseño de un sistema o una aplicación. El Modelo-Vista-Controlador (MVC) es un patrón arquitectónico que organiza la lógica de una aplicación en tres componentes claves: el Modelo, que gestiona los datos y la lógica; la Vista, que maneja la presentación y la interfaz de usuario; y el Controlador, que actúa como intermediario y gestiona las interacciones entre el Modelo y la Vista. Al revisar los antecedentes existentes, no se encontró mención alguna sobre la arquitectura utilizada en los proyectos previos. Dada esta falta de información, se ha optado por la adopción del patrón MVC para la estructuración del proyecto.
+
+\subsubsection*{Arduino IDE}
+Arduino IDE (Integrated Development Environment) es un entorno de desarrollo integrado utilizado para programar placas de hardware Arduino. Es un software que proporciona todas las herramientas necesarias para escribir, compilar y cargar código en las placas Arduino. En \cite{widyawati_fuzzy_2022} se utilizó para programar en lenguaje C el nodo sensor.
+
+\subsubsection*{Matlab}
+Es un software utilizado para cálculos numéricos, simulaciones y análisis de datos en campos como ingeniería y ciencias. En \cite{widyawati_fuzzy_2022} se empleó MATLAB para evaluar y ajustar el rendimiento de la lógica difusa implementada en el dispositivo NodeMCU ESP8266. Este software se utilizó en este contexto particular para realizar análisis y pruebas relacionadas con la lógica difusa en el mencionado dispositivo.
+
+\subsubsection*{Flask}
+Python es un lenguaje de programación interpretado, multiparadigma y multiplataforma, que ha ganado gran popularidad gracias a su legibilidad y su versatilidad en una amplia gama de aplicaciones, incluyendo el desarrollo web. Flask se ah usado en \cite{noauthor_fuzzy_2023} ya que es un framework de aplicaciones web escrito en Python, que se destaca por su simplicidad y flexibilidad en la construcción de estas aplicaciones. La elección de Python en el desarrollo web se debe a su facilidad de uso, su amplia aceptación en la comunidad de desarrolladores y su capacidad para integrarse con otros lenguajes y herramientas. Además, la ligereza y facilidad de aprendizaje de Flask lo hacen ideal para un desarrollo ágil en el contexto de aplicaciones web.
+
+\subsubsection*{Visual Studio Community}
+es una versión gratuita y robusta del entorno de desarrollo integrado (IDE) de Microsoft, diseñado para desarrolladores que trabajan en aplicaciones web, móviles y de escritorio. Ofrece un conjunto de herramientas completo que incluye editores de código, depuradores, compiladores y más, facilitando la creación y el desarrollo de software en varios lenguajes de programación como C\#, C++, Python, entre otros. En \cite{alcivar_dominguez_sistema_2018} permitió a los desarrolladores tener las herramientas necesarias para crear una aplicación consola. Esta aplicación fue especialmente diseñada para analizar los datos recolectados por el sistema automatizado de riego.
+
+\subsubsection*{Aplicación Móvil}
+Las aplicaciones móviles son soluciones diseñadas para proporcionar acceso a información y servicios a través de dispositivos móviles como teléfonos inteligentes y tabletas, como se menciona en \cite{noauthor_fuzzy_2023}. Android Studio es el entorno de desarrollo integrado (IDE) líder para aplicaciones Android, ya que ofrece herramientas que simplifican la creación y optimización de aplicaciones. En \cite{castillo_herrero_desarrollo_2020} se destaca su posición predominante en el desarrollo de aplicaciones para el sistema operativo Android, convirtiéndose en la elección natural para proyectos de esta índole. Mientras que en Flutter es un marco de trabajo de código abierto desarrollado por Google. En \cite{ramos_galindo_diseno_2023} se optó por su capacidad para crear aplicaciones multiplataforma con un alto rendimiento, su facilidad de desarrollo, la capacidad de personalización de la interfaz de usuario y el respaldo de una sólida comunidad de desarrolladores.
+
+\bigbreak
+Tras revisar diversos antecedentes, se destaca cómo la lógica difusa ha tenido un gran impacto al interpretar datos complejos, como la humedad, la temperatura y los niveles de humedad. Esta técnica resulta especialmente útil para representar estados en motores y sistemas difusos, sobre todo en situaciones donde los datos de entrada y salida no son precisos. Además, se ha observado un avance considerable en la precisión y diversidad de sensores, desde aquellos diseñados para medir la humedad del suelo, como el Módulo HL 69, SM3002B y el sensor YL-69, hasta sensores específicos para la lluvia, como el sensor de lluvia y el sensor de gota de lluvia YL-83.
+
+A pesar de que los estudios revisados enfatizan la utilidad de la lógica difusa
+en sistemas y sensores, no profundizan en cómo se aplica directamente en el
+desarrollo de aplicaciones móviles. Sin embargo, su relevancia en la
+interpretación precisa de datos es crucial en el ámbito de las aplicaciones
+móviles, donde la exactitud en la interpretación de la información puede ser
+vital para su funcionamiento óptimo.
+
+Es relevante destacar que, a pesar de la importancia que tiene el riego de agua
+en viveros para el cuidado de las plantas, los estudios revisados no abordan
+específicamente esta práctica en ese entorno. Esta falta de información resalta
+la necesidad de profundizar en la implementación de sistemas de riego en
+viveros, ya que desempeñan un papel crucial en el crecimiento sano y desarrollo
+de las plantas en estos espacios de producción.
+
+% \subsubsection*{Bombas de Agua}
+% En \cite{hasan_implementation_2018} se emplean para trasladar agua de un lugar a otro, lo que le permite incrementar la presión en el suministro de agua o para fines específicos, como el riego de cultivos. Su aplicación responde a la necesidad de transferir agua de manera eficiente y controlada, siendo esencial en diversas áreas, desde la agricultura hasta el abastecimiento de agua potable. El diseño y la funcionalidad de estas bombas les permiten realizar estas tareas de manera efectiva,
+
+% \subsubsection*{Chip MSP430}
+% En \cite{haiyan_intelligent_2022} se utilizó porque cuenta con una serie de componentes integrados, opera con un amplio rango de voltajes y consume poca energía. Además, su diseño y conjunto de instrucciones lo hacen ideal para sistemas de control en tiempo real y aplicaciones de dispositivos integrados. Es muy utilizado en el desarrollo de sistemas electrónicos debido a su compatibilidad con diferentes entornos de desarrollo. Su disponibilidad generalizada y el soporte que ofrece lo convierten en una opción atractiva para proyectos que requieren un microcontrolador confiable y fácil de programar.

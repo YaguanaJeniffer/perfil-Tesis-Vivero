@@ -1,0 +1,56 @@
+% ! TeX program = lualatex
+\documentclass{perfil}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\newcommand{\periodo}{marzo 2024 - agosto 2024}
+
+\begin{document}
+
+%Portada - Indice de contenidos - Datos Informativos A
+\input{sections/0-prelims/prelims.tex}
+
+\renewcommand{\thepage}{\arabic{page}}% Roman page numbers
+\begin{center} \textbf{B. CONTENIDOS} \end{center}
+
+\section{Tema de investigación}
+\input{sections/1-tema-investigacion/tema-investigacion.tex}
+\input{sections/1-tema-investigacion/planteamiento-problema.tex}
+% \input{sections/1-tema-investigacion/delimitacion.tex}
+
+\section{Justificación}
+\input{sections/2-justificacion.tex}
+
+\section{Objetivo general}
+\input{sections/3-objetivo-general.tex}
+
+\section{Objetivos específicos}
+\input{sections/4-objetivos-especificos.tex}
+
+\section{Fundamentación teórica}
+\input{sections/5-fundamentacion-teorica/antecedentes-investigativos.tex}
+\input{sections/5-fundamentacion-teorica/marco-teorico.tex}
+
+\section{Metodología}
+\input{sections/6-metodologia/descripcion.tex}
+\input{sections/6-metodologia/modalidad-investigacion.tex}
+
+\input{sections/6-metodologia/poblacion-muestra.tex}
+\input{sections/6-metodologia/recoleccion-informacion.tex}
+\input{sections/6-metodologia/procesamiento-informacion.tex}
+\input{sections/6-metodologia/propuesta-de-solución.tex}
+% \input{sections/6-metodologia/hipotesis.tex}
+% \input{sections/6-metodologia/desarrollo.tex}
+
+% \section{Recursos}
+% \input{sections/7-recursos.tex}
+
+% \input{sections/8-cronograma.tex}
+
+% \newpage
+\section{Bibliografía}
+\input{sections/9-biblio.tex}
+
+
+
+
+\end{document}
