@@ -44,6 +44,14 @@ C.~N. C, E.~P. Ch, S.~Rosero, y B.~Quishpe, ``Estudio del aprovechamiento de
   \url{https://revistadigital.uce.edu.ec/index.php/SIEMBRA/article/view/1427}
 \BIBentrySTDinterwordspacing
 
+\bibitem{luz_cultivo_2014}
+\BIBentryALTinterwordspacing
+A.~d.~l. Luz y L.~Lázara, ``Cultivo de plantas medicinales en recipientes,''
+  vol.~19, no.~1, pp. 4--13, publisher: 1999, Editorial Ciencias Médicas. [En
+  línea]. Disponible en:
+  \url{http://scielo.sld.cu/scielo.php?script=sci_abstract&pid=S1028-47962014000100002&lng=es&nrm=iso&tlng=es}
+\BIBentrySTDinterwordspacing
+
 \bibitem{riego_tecnificado}
 \BIBentryALTinterwordspacing
 En ecuador, el riego tecnificado equivale a cultivos más sostenibles y mejor
@@ -188,9 +196,29 @@ V.~Ramos~Galindo, ``Diseño de un sistema {IoT} de monitorización de humedad
   en: \url{https://riunet.upv.es/handle/10251/197732}
 \BIBentrySTDinterwordspacing
 
+\bibitem{peris_para_nodate}
+F.~J.~J. Peris, ``{PARA} {PRODUCCION} {DE} {PLANTA} a {PIE} {DE}
+  {REPOBLACION}.''
+
 \bibitem{mohammed_intelligent_nodate}
 B.~Mohammed, H.~Bekkay, A.~Migan-Dubois, M.~Adel, y A.~Rabhi, ``An intelligent
   irrigation system based on fuzzy logic control: A case study for moroccan
   oriental climate region.''
+
+\bibitem{cabezas_orellana_alisis_2023}
+\BIBentryALTinterwordspacing
+H.~E. Cabezas~Orellana, ``Análisis para el diseño de un sistema que gestione
+  la bolsa de empleo y pasantías en la {FAFI} usando metodología {XP}
+  programming.'' {bachelorThesis}, accepted: 2023-05-26T01:21:45Z. [En línea].
+  Disponible en: \url{http://dspace.utb.edu.ec/handle/49000/13967}
+\BIBentrySTDinterwordspacing
+
+\bibitem{bascon_pantoja_patron_2004}
+\BIBentryALTinterwordspacing
+E.~Bascón~Pantoja, ``El patrón de diseño modelo-vista-controlador ({MVC}) y
+  su implementación en java swing,'' vol.~2, no.~4, pp. 493--507, publisher:
+  Universidad Católica Boliviana. [En línea]. Disponible en:
+  \url{http://www.scielo.org.bo/scielo.php?script=sci_abstract&pid=S1683-07892004000100005&lng=es&nrm=iso&tlng=es}
+\BIBentrySTDinterwordspacing
 
 \end{thebibliography}

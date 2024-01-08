@@ -1,7 +1,7 @@
-PWD c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISEÑO PROYECTOS\Latex\perfil-master\perfil-master
-INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISEÑO PROYECTOS\Latex\perfil-master\perfil-master\main.tex
-OUTPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISEÑO PROYECTOS\Latex\perfil-master\perfil-master\build\main.log
-OUTPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISEÑO PROYECTOS\Latex\perfil-master\perfil-master\build\main.log
+PWD c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\main.tex
+OUTPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.log
+OUTPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.log
 INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\latexconfig\lualatexquotejobname.lua
 INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\base\ltluatex.lua
 INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\luatex\luaotfload\luaotfload-main.lua
@@ -363,3 +363,159 @@ INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\p
 INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
 INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
 INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
+OUTPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.pdf
+OUTPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.pdf
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.sty
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-luatex.def
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-luatex.def
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-luatex.lua
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.lua
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec-luatex.sty
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec-luatex.sty
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.cfg
+INPUT C:\Users\Usuario\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\lmroman12-bold.luc
+INPUT C:\Users\Usuario\AppData\Local\MiKTeX\luatex-cache\generic\names\luaotfload-lookup-cache.luc
+INPUT C:\Users\Usuario\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\times.luc
+INPUT C:\Users\Usuario\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\timesbi.luc
+INPUT C:\Users\Usuario\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\timesbd.luc
+INPUT C:\Users\Usuario\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\timesi.luc
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.aux
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.aux
+OUTPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.aux
+OUTPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.aux
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\base\ts1cmr.fd
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\base\ts1cmr.fd
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\grfext\grfext.sty
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.out
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.out
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.out
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.out
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.out
+OUTPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.out
+OUTPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.out
+INPUT .\sections\0-prelims\prelims.tex
+INPUT .\sections\0-prelims\prelims.tex
+INPUT .\sections\0-prelims\portada.tex
+INPUT .\sections\0-prelims\portada.tex
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT .\resources\images\logo-uta-rojo.png
+INPUT .\resources\images\logo-uta-rojo.png
+INPUT .\resources\images\logo-uta-rojo.png
+INPUT .\resources\images\logo-uta-rojo.png
+INPUT .\resources\images\logo-fisei-feo.jpeg
+INPUT .\resources\images\logo-fisei-feo.jpeg
+INPUT .\resources\images\logo-fisei-feo.jpeg
+INPUT .\resources\images\logo-fisei-feo.jpeg
+INPUT C:\Users\Usuario\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\resources\images\logo-uta-rojo.png
+INPUT .\resources\images\logo-fisei-feo.jpeg
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.toc
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.toc
+OUTPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.toc
+OUTPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.toc
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.lot
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.lot
+OUTPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.lot
+OUTPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.lot
+INPUT .\sections\1-tema-investigacion\tema-investigacion.tex
+INPUT .\sections\1-tema-investigacion\tema-investigacion.tex
+INPUT .\sections\1-tema-investigacion\planteamiento-problema.tex
+INPUT .\sections\1-tema-investigacion\planteamiento-problema.tex
+INPUT .\sections\2-justificacion.tex
+INPUT .\sections\2-justificacion.tex
+INPUT .\sections\3-objetivo-general.tex
+INPUT .\sections\3-objetivo-general.tex
+INPUT .\sections\4-objetivos-especificos.tex
+INPUT .\sections\4-objetivos-especificos.tex
+INPUT .\sections\5-fundamentacion-teorica\introduccion.tex
+INPUT .\sections\5-fundamentacion-teorica\introduccion.tex
+INPUT .\sections\5-fundamentacion-teorica\antecedentes-investigativos.tex
+INPUT .\sections\5-fundamentacion-teorica\antecedentes-investigativos.tex
+INPUT .\resources\tables\inclusion-y-exclusion.tex
+INPUT .\resources\tables\inclusion-y-exclusion.tex
+INPUT .\sections\5-fundamentacion-teorica\marco-teorico.tex
+INPUT .\sections\5-fundamentacion-teorica\marco-teorico.tex
+INPUT .\sections\6-metodologia\descripcion.tex
+INPUT .\sections\6-metodologia\descripcion.tex
+INPUT .\sections\6-metodologia\modalidad-investigacion.tex
+INPUT .\sections\6-metodologia\modalidad-investigacion.tex
+INPUT .\sections\6-metodologia\poblacion-muestra.tex
+INPUT .\sections\6-metodologia\poblacion-muestra.tex
+INPUT .\sections\6-metodologia\recoleccion-informacion.tex
+INPUT .\sections\6-metodologia\recoleccion-informacion.tex
+INPUT .\sections\6-metodologia\procesamiento-informacion.tex
+INPUT .\sections\6-metodologia\procesamiento-informacion.tex
+INPUT .\sections\6-metodologia\propuesta-de-solución.tex
+INPUT .\sections\6-metodologia\propuesta-de-solución.tex
+INPUT .\resources\figure\Esquema-Sistema.tex
+INPUT .\resources\figure\Esquema-Sistema.tex
+INPUT .\resources\images\ESQUEMA.png
+INPUT .\resources\images\ESQUEMA.png
+INPUT .\resources\images\ESQUEMA.png
+INPUT .\resources\images\ESQUEMA.png
+INPUT .\sections\7-recursos.tex
+INPUT .\sections\7-recursos.tex
+INPUT .\resources\images\ESQUEMA.png
+INPUT .\resources\tables\presupuesto.tex
+INPUT .\resources\tables\presupuesto.tex
+INPUT .\sections\8-descripcion-cronograma.tex
+INPUT .\sections\8-descripcion-cronograma.tex
+INPUT .\sections\8-cronograma.tex
+INPUT .\sections\8-cronograma.tex
+INPUT .\sections\9-biblio.tex
+INPUT .\sections\9-biblio.tex
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.bbl
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.bbl
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.aux
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.aux
+INPUT c:\Users\Usuario\Respaldo 2022\UTA\Octavo Semestre\DISENIO PROYECTOS\Latex\perfil-master\perfil-master\build\main.out
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Usuario\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb

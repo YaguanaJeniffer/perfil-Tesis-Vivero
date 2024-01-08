@@ -1,15 +1,21 @@
-\contentsline {section}{\numberline {1}Tema de investigación}{4}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Planteamiento del problema}{4}{subsection.1.1}%
-\contentsline {section}{\numberline {2}Justificación}{5}{section.2}%
+\contentsline {section}{\numberline {1}Tema de investigación}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Planteamiento del problema}{5}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Justificación}{6}{section.2}%
 \contentsline {section}{\numberline {3}Objetivo general}{6}{section.3}%
 \contentsline {section}{\numberline {4}Objetivos específicos}{6}{section.4}%
 \contentsline {section}{\numberline {5}Fundamentación teórica}{6}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Antecedentes investigativos}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.1}Antecedentes investigativos}{7}{subsection.5.1}%
 \contentsline {subsection}{\numberline {5.2}Marco teórico}{18}{subsection.5.2}%
 \contentsline {section}{\numberline {6}Metodología}{24}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Modalidad de investigación}{25}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.1}Modalidad de investigación}{24}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}Población y muestra}{25}{subsection.6.2}%
 \contentsline {subsection}{\numberline {6.3}Recolección de información}{26}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}Procesamiento y análisis de datos}{27}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.4}Procesamiento y análisis de datos}{26}{subsection.6.4}%
 \contentsline {subsection}{\numberline {6.5}Propuesta de solución}{27}{subsection.6.5}%
-\contentsline {section}{\numberline {7}Bibliografía}{28}{section.7}%
+\contentsline {section}{\numberline {7}Recursos}{29}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Institucionales}{29}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Humanos}{29}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Materiales}{29}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Económicos}{30}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Cronograma}{30}{section.8}%
+\contentsline {section}{\numberline {9}Bibliografía}{33}{section.9}%

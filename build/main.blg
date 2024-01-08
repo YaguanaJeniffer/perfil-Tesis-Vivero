@@ -10,15 +10,13 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: biblio/main.bib
-Repeated entry---line 481 of file biblio/main.bib
- : @online{riego_tecnificado
- :                          ,
-I'm skipping whatever remains of this entry
 -- IEEEtran.bst version 1.12 (2007/01/11) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 Warning--empty journal in c_estudio_2018
 Warning--empty year in c_estudio_2018
+Warning--empty journal in luz_cultivo_2014
+Warning--empty year in luz_cultivo_2014
 Warning--missing school in lema_holguin_implementacion_2018
 Warning--empty year in lema_holguin_implementacion_2018
 Warning--missing school in alcivar_dominguez_sistema_2018
@@ -49,49 +47,55 @@ Warning--empty journal in neugebauer_fuzzy_2023
 Warning--empty year in neugebauer_fuzzy_2023
 Warning--missing school in ramos_galindo_diseno_2023
 Warning--empty year in ramos_galindo_diseno_2023
+Warning--empty journal in peris_para_nodate
+Warning--empty year in peris_para_nodate
 Warning--empty journal in mohammed_intelligent_nodate
 Warning--empty year in mohammed_intelligent_nodate
+Warning--missing school in cabezas_orellana_alisis_2023
+Warning--empty year in cabezas_orellana_alisis_2023
+Warning--empty journal in bascon_pantoja_patron_2004
+Warning--empty year in bascon_pantoja_patron_2004
 
 Done.
-You've used 22 entries,
+You've used 26 entries,
             4073 wiz_defined-function locations,
-            935 strings with 12922 characters,
-and the built_in function-call counts, 12444 in all, are:
-= -- 1022
-> -- 285
-< -- 60
-+ -- 144
-- -- 59
-* -- 665
-:= -- 2048
-add.period$ -- 44
-call.type$ -- 22
-change.case$ -- 29
-chr.to.int$ -- 90
-cite$ -- 56
-duplicate$ -- 959
-empty$ -- 911
-format.name$ -- 74
-if$ -- 2714
+            957 strings with 13873 characters,
+and the built_in function-call counts, 14769 in all, are:
+= -- 1224
+> -- 319
+< -- 79
++ -- 163
+- -- 64
+* -- 792
+:= -- 2450
+add.period$ -- 52
+call.type$ -- 26
+change.case$ -- 36
+chr.to.int$ -- 129
+cite$ -- 68
+duplicate$ -- 1129
+empty$ -- 1074
+format.name$ -- 80
+if$ -- 3214
 int.to.chr$ -- 0
-int.to.str$ -- 22
-missing$ -- 199
-newline$ -- 131
-num.names$ -- 18
-pop$ -- 500
+int.to.str$ -- 26
+missing$ -- 231
+newline$ -- 149
+num.names$ -- 22
+pop$ -- 563
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 956
+skip$ -- 1133
 stack$ -- 0
-substring$ -- 314
-swap$ -- 708
-text.length$ -- 30
+substring$ -- 414
+swap$ -- 841
+text.length$ -- 36
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 22
-warning$ -- 34
-while$ -- 41
-width$ -- 24
-write$ -- 255
-(There was 1 error message)
+type$ -- 26
+warning$ -- 42
+while$ -- 53
+width$ -- 28
+write$ -- 298
+(There were 42 warnings)

@@ -3,6 +3,7 @@
     "aspersores",
     "defuzzificación",
     "dinámicamente",
+    "Elaboracion",
     "FIPA",
     "fuzzificación",
     "investigativos",
@@ -11,9 +12,9 @@
     "monitoreando",
     "monitoreo",
     "multiagente",
+    "sensorización",
     "Simulink",
     "subcategorías"
   ],
-  "latex-workshop.latex.recipe.default": "first",
-  "latex-workshop.latex.clean.command": "lualatex"
+  "latex-workshop.latex.recipe.default": "latexmk (lualatex)"
 }

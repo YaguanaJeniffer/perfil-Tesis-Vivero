@@ -1,33 +1,32 @@
 \subsection{Propuesta de solución}
 Se plantea el desarrollo de un prototipo de sistema de monitoreo y control para
 la gestión eficiente del consumo de agua en los cultivos de plantas del Vivero
-Michita, empleando la metodología de lógica difusa. Este sistema permitirá a
+Michita, empleando lógica difusa. Este sistema permitirá a
 los responsables del vivero supervisar y regular el riego de manera precisa y
 adaptativa, optimizando así el uso del recurso hídrico en las áreas de cultivo.
 Como se muestra en la Figura \ref{fig:esquema_riego}, el diagrama de procesos
-del sistema es fundamental para comprender su estructura. 
-\bigbreak 
-\bigbreak 
-\bigbreak 
+del sistema es fundamental para comprender su estructura.
 
-\begin{figure}[h]
-    \centering
-    \includegraphics[width=14cm,height=22cm,keepaspectratio]{resources/images/ESQUEMA1.png}
-    \caption{Procesos del sistema}
-    \label{fig:esquema_riego}
-\end{figure}
+\newpage
 
-\begin{itemize}
-    \bigbreak 
-    \item \textbf{Viabilidad Técnica}
-          \bigbreak
-          El sistema se diseñará para operar con sensores especializados que monitoreen constantemente la humedad del suelo, las condiciones ambientales y otros parámetros relevantes para determinar las necesidades hídricas de las plantas. Estos datos se procesarán a través de un algoritmo basado en lógica difusa, que tomará decisiones de riego acordes a las condiciones específicas de cada cultivo.
+\input{resources/figure/Esquema-Sistema.tex}
 
-    \item \textbf{Viabilidad Económica}
-          \bigbreak
-          La implementación de este prototipo posibilitará una gestión más eficiente del riego, permitiendo que los responsables del vivero ajusten el suministro de agua de manera automatizada y precisa. Esto no solo mejorará la salud de las plantas al proporcionarles la cantidad óptima de agua, sino que también optimizará los procesos operativos al reducir la necesidad de supervisiones manuales frecuentes.
+Se emplearán diversas herramientas tecnológicas. Es por ello que se utilizará
+sensores de humedad del suelo, temperatura y ambiente que proporcionaran
+información en tiempo real sobre las condiciones del vivero. Con el apoyo de un
+controlador, estos datos permitirán ajustar el riego de manera precisa y
+eficiente. \bigbreak La lógica difusa se utilizará para adaptar las estrategias
+de riego a los cambios ambientales del vivero, optimizando así el uso del agua.
+La información recolectada por los sensores será analizada en una base de
+datos, brindando datos valiosos para mejorar el manejo del agua en el vivero.
+\bigbreak La API se encargar de que las aplicaciones móviles se conecten
+fácilmente con los datos de los sensores. Esta conexión permitirá que la
+información recopilada por los sensores, como datos de humedad y temperatura,
+sea accesible en las aplicaciones. De esta forma, los encargados del vivero
+podrán usar la aplicación móvil para tomar decisiones sobre el riego, basándose
+en estos datos en tiempo real. Este enfoque tecnológico, combinado con la
+lógica difusa que adapta las estrategias de riego, será clave para mejorar
+eficazmente el sistema de riego en el vivero.
 
-    \item \textbf{Viabilidad Operacional}
-          \bigbreak
-          Desde el punto de vista económico, este prototipo representará una inversión que generará beneficios a largo plazo. La optimización del consumo de agua contribuirá a reducir los costos operativos del vivero, además de disminuir el desperdicio de recursos.
-\end{itemize}
+% \bigbreak
+% Es por ello que, la propuesta se destaca por su enfoque innovador que es el uso de la lógica difusa para el desarrollo del sistema de monitoreo y control del consumo de agua. Esta técnica de inteligencia artificial permite tomar decisiones a partir de valores imprecisos, adaptándose a las condiciones cambiantes del entorno, como las condiciones climáticas y las necesidades de las plantas.

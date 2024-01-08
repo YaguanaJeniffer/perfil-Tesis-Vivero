@@ -1,10 +1,19 @@
 
 \subsection{Población y muestra}
-
-El vivero "Michita" es la población de estudio para este proyecto, caracterizado por su diversidad en tres categorías principales: plantas ornamentales, plantas frutales y plantas forestales. Esta variedad representa los diferentes tipos de cultivo y productos que el vivero maneja.
-
+Para determinar la cantidad mínima de experimentos requeridos para evaluar la eficacia del sistema de riego en el Vivero Michita, se utilizó una fórmula estadística con un nivel de confianza del 90\%, equivalente a una puntuación estándar de 1.645 en una distribución normal.
 \bigbreak
-El proceso de selección de la muestra se realizará mediante un muestreo aleatorio simple por categoría. Esto implica tomar muestras representativas al azar de cada categoría dentro del vivero. Utilizando este método, se obtendrá un conjunto diverso y equitativo de muestras que reflejarán las características y variaciones dentro de cada grupo de plantas.
+La fórmula utilizada para determinar el número mínimo de experimentaciones fue:
+\begin{align*}
+     & n = \text{tamaño de la muestra}                                                                       \\
+     & Z = \text{nivel de confianza del 90\% con una puntuación estándar de 1.645} \\
+     & p = q = \text{probabilidad de éxito esperada, ambas asumidas como 0.50 (equitativas)}                 \\
+     & e = \text{error de estimación máximo aceptable, 0.05 para un margen de error del 5\%}
+\end{align*}
 
-\bigbreak
-Dado que se trabajará con un prototipo en el vivero Michita, se considerará este muestreo como un primer acercamiento para evaluar la funcionalidad y eficacia del sistema de gestión de riego en cada una de las categorías, permitiendo así futuras adaptaciones y mejoras en el diseño del sistema.
+\[ n = \frac{{Z^2 \cdot p \cdot q}}{{e^2}} \]
+
+\[ n = \frac{(1.645)^2 \cdot 0.50 \cdot 0.50}{0.05^2} \]
+
+\[ n = 270.6 \approx 271 \]
+
+Con un nivel de confianza del 90\% y un margen de error máximo aceptable del 5\%, se estima que se requiere una muestra de alrededor de 271 experimentaciones. Esta cantidad se considera esencial para garantizar la validez y representatividad de los resultados al evaluar la eficiencia del sistema de riego en el Vivero Michita.
